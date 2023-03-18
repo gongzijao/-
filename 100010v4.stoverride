@@ -18,7 +18,7 @@ http:
 
 tiles:
   - name: "联通余量(v4)"
-    interval: 60
+    interval: 1800
     title: "联通余量"
     content: ""
     icon: "arrow.up.arrow.down.circle"
